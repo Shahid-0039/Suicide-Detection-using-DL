@@ -402,7 +402,7 @@ st.markdown("""
     <div class='sui-logo-inner'>🧠</div>
   </div>
   <div class='sui-title'>SUISENSE</div>
-  <div class='sui-subtitle'>SUICIDE RISK DETECTION · ROBERTA · NLP · v1.0</div>
+  <div class='sui-subtitle'>SUICIDE RISK DETECTION </div>
   <div class='scan-line'></div>
 </div>
 """, unsafe_allow_html=True)
@@ -455,10 +455,10 @@ if analyze:
             st.markdown(f"""
             <div class='result-box result-danger'>
                 <div class='orb-3d orb-danger'></div>
-                <div class='result-label-text' style='color:#ff4060;text-shadow:0 0 40px #ff1e46;'>🔴 SUICIDE RISK</div>
+                <div class='result-label-text' style='color:#ff4060;text-shadow:0 0 40px #ff1e46;'>🔴 SUICIDE RISK Analyezed</div>
                 <div class='conf-track'><div class='conf-fill fill-danger' style='width:{pct}%'></div></div>
                 <div class='result-conf-text'>CONFIDENCE · {pct}%</div>
-                <div class='crisis-text' style='color:rgba(255,80,100,0.9);'>⚠ CRISIS HELPLINE · UMANG: 0311-7786264</div>
+                <div class='crisis-text' style='color:rgba(255,80,100,0.9);'>⚠ CRISIS HELPLINE · UMANG: 03087619534</div>
             </div>""", unsafe_allow_html=True)
 
         else:
@@ -472,6 +472,8 @@ if analyze:
 
 st.markdown("""
 <div class='sui-footer'>
-    ⚠ RESEARCH USE ONLY · NOT A CLINICAL DIAGNOSTIC TOOL<br>
-    SUISENSE v1.0 · ROBERTA-BASE · 100K TRAINING SAMPLES
+    This project is Made by Shahid Ali and Mahrukh Memon<br>
+    BS AI 6th semester Students at Aror University Sukkur <br>
+    Mail: f23ari39@aror.edu.pk
+    
 </div>""", unsafe_allow_html=True)
