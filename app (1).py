@@ -336,8 +336,8 @@ div[data-testid="column"]:last-child .stButton > button {
 .sui-footer {
     text-align: center;
     font-family: 'Share Tech Mono', monospace;
-    font-size: 0.80rem;
-    color: rgba(100,150,200,0.7);
+    font-size: 0.90rem;
+    color: rgba(150,150,200,0.7);
     letter-spacing: 0.18em;
     margin-top: 40px;
     padding-top: 20px;
