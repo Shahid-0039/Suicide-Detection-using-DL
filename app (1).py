@@ -337,7 +337,7 @@ div[data-testid="column"]:last-child .stButton > button {
     text-align: center;
     font-family: 'Share Tech Mono', monospace;
     font-size: 0.80rem;
-    color: rgba(100,100,100,0.6);
+    color: rgba(100,150,200,0.7);
     letter-spacing: 0.18em;
     margin-top: 40px;
     padding-top: 20px;
