@@ -458,7 +458,7 @@ if analyze:
                 <div class='result-label-text' style='color:#ff4060;text-shadow:0 0 40px #ff1e46;'>🔴 SUICIDE RISK Analyezed</div>
                 <div class='conf-track'><div class='conf-fill fill-danger' style='width:{pct}%'></div></div>
                 <div class='result-conf-text'>CONFIDENCE · {pct}%</div>
-                <div class='crisis-text' style='color:rgba(255,80,100,0.9);'>⚠ CRISIS HELPLINE · UMANG: 03087619534</div>
+                <div class='crisis-text' style='color:rgba(255,80,100,0.9);'>⚠ CRISIS HELPLINE -> UMANG: 0311-7786264</div>
             </div>""", unsafe_allow_html=True)
 
         else:
