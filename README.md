@@ -31,18 +31,10 @@ This project applies deep learning to a text classification problem: identifying
 | **Language** | Python |
 | **Deep Learning** | TensorFlow / Keras |
 | **NLP** | Text preprocessing, tokenization, embeddings |
-| **App layer** | Flask |
+| **App layer** | Streamlit |
 | **Notebook** | Jupyter |
 
-## Model Comparison
 
-*(Fill in with your actual results — a filled-in table is far more credible on a public repo than a placeholder.)*
-
-| Model | Accuracy | Precision | Recall | F1 Score |
-|---|---|---|---|---|
-| DNN | — | — | — | — |
-| CNN | — | — | — | — |
-| LSTM | — | — | — | — |
 
 ## How It Works
 
