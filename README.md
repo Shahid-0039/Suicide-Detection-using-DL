@@ -78,12 +78,6 @@ python app.py
 - False positives and false negatives are both possible and can have serious consequences if this tool is misused — it is not a substitute for professional judgment.
 - This project should be used to study NLP/DL techniques and risk-language patterns, not deployed as a real-world screening tool without extensive clinical validation, ethical review, and professional oversight.
 
-## Roadmap
-
-- [ ] Fill in the model comparison table with real evaluation metrics
-- [ ] Add a data source / dataset citation section
-- [ ] Add unit tests for preprocessing functions
-- [ ] Expand the disclaimer with links to crisis resources for repo visitors
 
 ## Author
 
